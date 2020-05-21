@@ -5,6 +5,6 @@
 .nav-spacing {
   margin-left: 10px;
 }
-.nav-style {
+.nav-style, .image-link{
   text-decoration: none;
 }
